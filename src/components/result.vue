@@ -99,7 +99,7 @@
 
     <!-- Thank you note -->
     <p class="mt-8 text-green-700 font-semibold text-lg text-center">
-      Thank you, {{ items[0]?.name }}, for your purchase!
+      Thank you {{ items[0]?.name }} for your purchase!
     </p>
 
     <!-- Print button -->
